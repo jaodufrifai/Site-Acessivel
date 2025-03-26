@@ -44,16 +44,10 @@ section {
 /* posicionamento para a imagem à direita */
 .img-inicio {
     position: absolute;
-    right: 0;
-    top: 18rem;
-    width: 45rem;
-    height: auto;
+    width: 50%;
+    height: 50%;
 }
 
-.caba {
-    height: 50%;
-    width: 50%;
-}
 
 .esquerda-conteudo {
     display: flex;
