@@ -44,10 +44,12 @@ section {
 /* posicionamento para a imagem à direita */
 .img-inicio {
     position: absolute;
-    width: 50%;
-    height: 50%;
+    right: 0;
+    top: 18rem;
+    width: rem
+    height: auto;
+    size:50%;
 }
-
 
 .esquerda-conteudo {
     display: flex;
